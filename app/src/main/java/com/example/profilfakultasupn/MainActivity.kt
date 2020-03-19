@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
         partList.add(ProdiData("FAKULTAS ILMU \nKOMPUTER","Fakultas Ilmu Komputer Merupakan salah satu dari 7 Fakultas di UPN “Vetaran” Jawa Timur. Yang terdiri dari program Studi: \n" +
                 "1.\tTeknik Informatika\n" +
                 "2.\tSistem Informasi\n", R.drawable.upn))
-        partList.add(ProdiData("Dian Budi\nRachmadhani","Nama: Dian Budi Rachmadhani\nTTL: Surabaya,02 Januari 1999\nAlamat: Jl Raganata No 29 Kav 12\nNo.HP: 081217353865\nEmail: Dhanidbr.private@mail.com\nUrl Profil Github: https://github.com/dhanidbr\nRiwayat Pendidikan: -",R.drawable.dbr))
+        partList.add(ProdiData("Dian Budi\nRachmadhani","1.\tNama: Dian Budi Rachmadhani\n2.\tTTL: Surabaya,02 Januari 1999\n3.\tAlamat: Jl Raganata No 29 Kav 12\n4.\tNo.HP: 081217353865\n5.\tEmail: Dhanidbr.private@mail.com\n6.\tUrl Profil Github: \n\t\t\thttps://github.com/dhanidbr\n7.\tRiwayat Pendidikan: -\n8.\tPenghargaan: -",R.drawable.dbr))
 
         return partList
     }
